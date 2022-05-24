@@ -96,6 +96,11 @@ Useful Articles
 - [Let's Learn Kubernetes](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7) by [Prashant Ghildiyal](https://www.linkedin.com/in/pghildiyal/)
 - [How to Provision an AWS EKS Kubernetes Cluster with Terraform](https://spacelift.io/blog/how-to-provision-aws-eks-kubernetes-cluster-with-terraform) by [Jacob Martin](https://www.linkedin.com/in/jakubmartin/)
 
+### [Scaling](#scaling)
+
+- [Basics of autoscaling nodes and pods in Kubernetes](https://www.useanvil.com/blog/engineering/autoscaling-kubernetes-in-gke) by [Inshaal Amjad
+](https://www.linkedin.com/in/inshaal-amjad/)
+
 ### [Others](#others)
 * [Packaging Multiple Resources together](https://planet.jboss.org/post/kubernetes_application_package_multiple_resources_together) by Arun Gupta
 * [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://twitter.com/csanchez)
